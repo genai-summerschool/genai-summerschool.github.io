@@ -81,7 +81,12 @@ Let’s embark on this exciting journey together!
     <br>The University of Sydney</b>
 </figure>
 
-
+<figure>
+    <a href="https://www.taolinwei.com">
+    <img class="img-author" src="assets/imgs/authors/linweitao.jpg" alt="Linwei Tao"/></a>
+    <b><br><a href="https://www.taolinwei.com">Linwei Tao</a>
+    <br>The University of Sydney</b>
+</figure>
 
 
 
