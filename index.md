@@ -18,17 +18,16 @@ Let’s embark on this exciting journey together!
 
 ## **Schedule** {#schedule}
 
-| Seminar 1 | **3 PM - 4:30 PM, December 11, 2024 (Wednesday)** |
-| Seminar 2 | **3 PM - 4:30 PM, December 19, 2024 (Thursday)** |
-| Seminar 3 | **3 PM - 4:30 PM, January 16, 2025 (Thursday)** |
-| Senimar 4 | **3 PM - 4:30 PM, January 22, 2025 (Wednesday)** |
+| Seminar 1: Development of LLM | **3 PM - 4:30 PM, December 11, 2024 (Wednesday)** |
+| Seminar 2: Training and Inference of LLM | **3 PM - 4:30 PM, December 19, 2024 (Thursday)** |
+| Seminar 3: Applications of LLM in Robotics | **3 PM - 4:30 PM, January 16, 2025 (Thursday)** |
+| Senimar 4: Robustness of LLM | **3 PM - 4:30 PM, January 22, 2025 (Wednesday)** |
 
 ---
 
 **Location: Room xxx, 32 Queen St, Chippendale, NSW 2008 (USYD J17 Buildling).**
 
 ---
-
 
 ## **Program Coordinator** {#Committee}
 
