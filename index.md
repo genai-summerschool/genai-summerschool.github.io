@@ -62,7 +62,7 @@ Let’s embark on this exciting journey together!
 
 <figure>
     <a href="https://scholar.google.com.vn/citations?user=ZJbv3YoAAAAJ&hl=en">
-    <img class="img-author" src="assets/imgs/authors/anhdungdinh.jpg" alt="Anh-Dung Dinh"/></a>
+    <img class="img-author" src="assets/imgs/authors/anhdungdinh.jpeg" alt="Anh-Dung Dinh"/></a>
     <b><br><a href="https://scholar.google.com.vn/citations?user=ZJbv3YoAAAAJ&hl=en">Anh-Dung Dinh</a>
     <br>The University of Sydney</b>
 </figure>
@@ -76,7 +76,7 @@ Let’s embark on this exciting journey together!
 
 <figure>
     <a href="https://www.terrypei.com">
-    <img class="img-author" src="assets/imgs/authors/xiaohuanpei.jpg" alt="Xiaohuan Pei"/></a>
+    <img class="img-author" src="assets/imgs/authors/xiaohuanpei.jpeg" alt="Xiaohuan Pei"/></a>
     <b><br><a href="https://www.terrypei.com">Xiaohuan Pei</a>
     <br>The University of Sydney</b>
 </figure>
