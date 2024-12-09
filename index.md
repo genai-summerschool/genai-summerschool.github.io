@@ -54,6 +54,19 @@ Let’s embark on this exciting journey together!
     <br>The University of Sydney</b>
 </figure>
 
+<figure>
+    <a href="https://scholar.google.com/citations?user=92B4a3YAAAAJ&hl=en">
+    <img class="img-author" src="assets/imgs/authors/jinxulin.jpg" alt="Jinxu Lin"/></a>
+    <b><br><a href="https://scholar.google.com/citations?user=92B4a3YAAAAJ&hl=en">Jinxu Lin</a>
+    <br>The University of Sydney</b>
+</figure>
+
+<figure>
+    <a href="https://youzunzhi.github.io">
+    <img class="img-author" src="assets/imgs/authors/zunzhiyou.jpg" alt="Zunzhi You"/></a>
+    <b><br><a href="https://youzunzhi.github.io">Zunzhi You</a>
+    <br>The University of Sydney</b>
+</figure>
 
 </div>
 
