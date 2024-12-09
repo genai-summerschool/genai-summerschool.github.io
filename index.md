@@ -68,13 +68,6 @@ Let’s embark on this exciting journey together!
 </figure>
 
 <figure>
-    <a href="https://youzunzhi.github.io">
-    <img class="img-author" src="assets/imgs/authors/zunzhiyou.jpg" alt="Zunzhi You"/></a>
-    <b><br><a href="https://youzunzhi.github.io">Zunzhi You</a>
-    <br>The University of Sydney</b>
-</figure>
-
-<figure>
     <a href="https://www.terrypei.com">
     <img class="img-author" src="assets/imgs/authors/xiaohuanpei.jpeg" alt="Xiaohuan Pei"/></a>
     <b><br><a href="https://www.terrypei.com">Xiaohuan Pei</a>
@@ -82,9 +75,32 @@ Let’s embark on this exciting journey together!
 </figure>
 
 <figure>
+    <a href="https://youzunzhi.github.io">
+    <img class="img-author" src="assets/imgs/authors/zunzhiyou.jpg" alt="Zunzhi You"/></a>
+    <b><br><a href="https://youzunzhi.github.io">Zunzhi You</a>
+    <br>The University of Sydney</b>
+</figure>
+
+
+<figure>
+    <a href="">
+    <img class="img-author" src="assets/imgs/authors/xiyuwang.jpg" alt="Xiyu Wang"/></a>
+    <b><br><a href="">Xiyu Wang</a>
+    <br>The University of Sydney</b>
+</figure>
+
+<figure>
     <a href="https://www.taolinwei.com">
     <img class="img-author" src="assets/imgs/authors/linweitao.jpg" alt="Linwei Tao"/></a>
     <b><br><a href="https://www.taolinwei.com">Linwei Tao</a>
+    <br>The University of Sydney</b>
+</figure>
+
+
+<figure>
+    <a href="">
+    <img class="img-author" src="assets/imgs/authors/younanzhu.jpg" alt="Younan Zhu"/></a>
+    <b><br><a href="">Younan Zhu</a>
     <br>The University of Sydney</b>
 </figure>
 
