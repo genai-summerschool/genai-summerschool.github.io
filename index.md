@@ -20,7 +20,7 @@ Let’s embark on this exciting journey together!
 
 | Seminar 1: Development of LLM [[Slides-1]](https://github.com/genai-summerschool/genai-summerschool.github.io/blob/master/assets/Seminar1-Part1.pdf)[[Slides-2]](https://github.com/genai-summerschool/genai-summerschool.github.io/blob/master/assets/Seminar1-Part2.pdf)| **3 PM - 4:30 PM, December 11, 2024 (Wednesday)** |
 | Seminar 2: Training and Inference of LLM [[Slides-1]](https://github.com/genai-summerschool/genai-summerschool.github.io/blob/master/assets/Seminar2-Part1.pdf)[[Slides-2]](https://github.com/genai-summerschool/genai-summerschool.github.io/blob/master/assets/Seminar2-Part2.pdf) | **3 PM - 4:30 PM, December 19, 2024 (Thursday)** |
-| Seminar 3: Applications of LLM in Robotics | **3 PM - 4:30 PM, January 16, 2025 (Thursday)** |
+| Seminar 3: Applications of LLM in Robotics [[Slides-1]](https://github.com/genai-summerschool/genai-summerschool.github.io/blob/master/assets/Seminar3-Part1.pdf)[[Slides-2]](https://github.com/genai-summerschool/genai-summerschool.github.io/blob/master/assets/Seminar3-Part2.pdf) | **3 PM - 4:30 PM, January 16, 2025 (Thursday)** |
 | Senimar 4: Robustness of LLM | **3 PM - 4:30 PM, January 22, 2025 (Wednesday)** |
 
 ---
